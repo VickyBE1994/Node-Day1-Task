@@ -1,0 +1,19 @@
+{
+  "name": "node-day1-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^3.3.1",
+    "express": "^4.18.2",
+    "format": "^0.2.2",
+    "fs": "^0.0.1-security",
+    "nodemon": "^3.0.3"
+  }
+}
